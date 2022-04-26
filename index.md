@@ -6,25 +6,30 @@ My name is Nicholas Spudich and I have a keen interest in software engineering a
 
 <h1 align = "center">Contact</h1>
 
-```
-  [Phone]
+
+<h4 align="center">
+  <font color="green">Phone</font>
+  <br>
   (406-781-1173)
-  
-  [E-mail]
-  (nicholasspudich@gmail.com)
-  
-  [Address]
+</h4>
+<h4 align="center">  
+  <font color="green">E-mail</font> 
+  <br>
+  nicholasspudich@gmail.com
+</h4>
+<h4 align="center">  
+  <font color="green">Address</font>
+  <br>
   (California, PA)
-```
+</h4>
+
 
 
 <h1 align = "center">Resources</h1>
 
 ```
-  [Resume]
-  (https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx)
-  [Linkedin]
-  (https://www.linkedin.com/in/nicholas-spudich-029a0821a/)
+  [Resume](https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx)
+  [Linkedin](https://www.linkedin.com/in/nicholas-spudich-029a0821a/)
 ```
 
 <h1 align = "center">Past Projects</h1>
