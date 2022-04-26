@@ -1,5 +1,5 @@
 <p align="center">
-About me
+#### About me
 </p>
 ```
 My name is Nicholas Spudich and I have a keen interest in software
@@ -7,7 +7,7 @@ engineering and all things video game related.
 ```
 
 <p align="center">
-Contact
+#### Contact
 </p>
 ```
 Phone: 406-781-1173
@@ -16,7 +16,7 @@ Address: California, PA
 ```
 
 <p align="center">
-Resources
+#### Resources
 </p>
 ```markdown
 [Resume.docx](https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx)
@@ -25,7 +25,7 @@ Resources
 ```
 
 <p align="center">
-Past Projects
+#### Past Projects
 </p>
 ```
 [Vulcan’s Spire](https://streamable.com/uqlbdo) (PC/ANDROID) | 8 month project | 4-member team 
@@ -37,8 +37,8 @@ Past Projects
 
 [Game Information](https://forums.rpgmakerweb.com/index.php?threads/azshura-1-0.132229/)
 
+<details><summary>Downloads</summary>
 <p align="center">
-Downloads
 </p>
 [zip](https://www.dropbox.com/s/lw8lce4hj03jcsf/Azshura-1.0.zip?dl=0)
 [7zip](https://drive.google.com/drive/folders/1LZs-57uuaDgbQyouLTrvVVBquyu-a6LQ?usp=sharing)
