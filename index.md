@@ -18,7 +18,7 @@ Address: California, PA
 <p align="center">
 #### Resources
 </p>
-```markdown
+```
 [Resume.docx](https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx)
 
 [Linkedin](https://www.linkedin.com/in/nicholas-spudich-029a0821a/)
@@ -28,11 +28,15 @@ Address: California, PA
 #### Past Projects
 </p>
 ```
-[Vulcan’s Spire](https://streamable.com/uqlbdo) (PC/ANDROID) | 8 month project | 4-member team 
+<p align="center">
+  [Vulcan’s Spire](https://streamable.com/uqlbdo) (PC/ANDROID) | 8 month project | 4-member team 
+</p>
 ![VS_Logo](https://user-images.githubusercontent.com/64248034/165195624-c0ae09d8-3f07-4c74-bf3f-7a43e26652aa.png)
 - Developed in Unity Real-Time Development Platform
 
-[Azshura]() (PC) | 4+ Year project | Solo-developed
+<p align="center">
+  [Azshura]() (PC) | 4+ Year project | Solo-developed
+</p>
 ![Azshura1](https://user-images.githubusercontent.com/64248034/165196535-d897d503-79d9-4ffa-8c62-300cbfc932b0.png)
 
 <p align="center">
