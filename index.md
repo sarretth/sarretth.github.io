@@ -7,10 +7,9 @@ My name is Nicholas Spudich and I have a keen interest in software engineering a
 <h1 align = "center">Contact</h1>
 
 ```
-<p align="center">
-  <b>[Phone]</b><br>
+<p align="center">[Phone]</p>
   (406-781-1173)
-</p>
+
   <br><br>
   [E-mail]
   (nicholasspudich@gmail.com)
