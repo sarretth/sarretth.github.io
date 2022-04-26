@@ -1,11 +1,11 @@
 <h1 align = "center">
   <font color="white">About me</font>
     </h1>
-
+---
 <p align = "center">
   My name is Nicholas Spudich and I have a keen interest in software engineering and all things video game related.
 </p>
-
+---
 <h1 align = "center">
   <font color="white">Contact</font>
     </h1>
