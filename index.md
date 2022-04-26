@@ -7,9 +7,9 @@ My name is Nicholas Spudich and I have a keen interest in software engineering a
 <h1 align = "center">Contact</h1>
 
 ```
-<p align="center">[Phone]</p>
-  (406-781-1173)
-
+<p align="center">
+  [Phone](406-781-1173)
+</p>
   <br><br>
   [E-mail]
   (nicholasspudich@gmail.com)
@@ -31,8 +31,9 @@ My name is Nicholas Spudich and I have a keen interest in software engineering a
 ```
 <p align="center">
   [Vulcan’s Spire](https://streamable.com/uqlbdo) (PC/ANDROID) | 8 month project | 4-member team 
+  <img width="200"
+  ![VS_Logo](https://user-images.githubusercontent.com/64248034/165195624-c0ae09d8-3f07-4c74-bf3f-7a43e26652aa.png)
 </p>
-![VS_Logo](https://user-images.githubusercontent.com/64248034/165195624-c0ae09d8-3f07-4c74-bf3f-7a43e26652aa.png)
 - Developed in Unity Real-Time Development Platform
 <br><br>
 <p align="center">
