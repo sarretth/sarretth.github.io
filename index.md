@@ -34,12 +34,14 @@
     </h1>
 <h4 align="center">
   <font color="green">RESUME</font>
-    https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx
   <br>
+    https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx
+  <br><br>
 </h4>
 
 <h4 align="center">
   <font color="green">LINKEDIN</font>
+  <br>
     https://www.linkedin.com/in/nicholas-spudich-029a0821a/
 </h4>
 
