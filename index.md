@@ -1,10 +1,11 @@
-## About me
+<h1 align = "center">About me</h1>
 
 ```
 My name is Nicholas Spudich and I have a keen interest in software engineering and all things video game related.
 ```
 
-## Contact
+<h1 align = "center">Contact</h1>
+
 ```
 Phone: 406-781-1173
 E-mail: nicholasspudich@gmail.com
@@ -12,14 +13,16 @@ Address: California, PA
 ```
 
 
-## Resources
+<h1 align = "center">Resources</h1>
+
 ```
 [Resume.docx](https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx)
 <br><br>
 [Linkedin](https://www.linkedin.com/in/nicholas-spudich-029a0821a/)
 ```
 
-## Past Projects
+<h1 align = "center">Past Projects</h1>
+
 ```
 <p align="center">
   [Vulcan’s Spire](https://streamable.com/uqlbdo) (PC/ANDROID) | 8 month project | 4-member team 
