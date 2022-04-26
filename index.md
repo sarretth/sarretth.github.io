@@ -1,13 +1,12 @@
 <h1 align = "center">
   <font color="white">About me</font>
     </h1>
-<br>
 <p align = "center">
   My name is Nicholas Spudich and I have a keen interest in software engineering and all things video game related.
 </p>
 ---
 <h1 align = "center">
-  <font color="white">Contact</font>
+  <font color="white">Contact Information</font>
     </h1>
 <br>
 <h4 align="center">
@@ -29,24 +28,23 @@
 <h1 align = "center">
   <font color="white">Resources</font>
     </h1>
-    <br>
 <h4 align="center">
   <font color="green">RESUME</font>
   <br>
-    https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx
+    (https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx)
   <br><br>
 </h4>
 
 <h4 align="center">
   <font color="green">LINKEDIN</font>
   <br>
-    https://www.linkedin.com/in/nicholas-spudich-029a0821a/
+    (https://www.linkedin.com/in/nicholas-spudich-029a0821a/)
 </h4>
 ---
 <h1 align = "center">
   <font color="white">Past Projects</font>
     </h1>
-  <br>
+
   [Vulcan’s Spire](https://streamable.com/uqlbdo) (PC/ANDROID) | 8 month project | 4-member team 
   <br>
   <p align = "center">
