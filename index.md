@@ -61,6 +61,6 @@
     <img src="https://user-images.githubusercontent.com/64248034/165196535-d897d503-79d9-4ffa-8c62-300cbfc932b0.png" width="400" height="200">
   </p>
   
-      - Developed in RPG Maker MV (Drag and Drop)
+      - Developed in RPG Maker MV
       - Coded using JavaScript
       - ~20-35 hours of gameplay
