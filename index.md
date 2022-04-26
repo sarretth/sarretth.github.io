@@ -1,38 +1,51 @@
-<h1 align = "center">About me</h1>
+<h1 align = "center">
+  <font color="white">About me</font>
+    </h1>
 
 <p align = "center">
-My name is Nicholas Spudich and I have a keen interest in software engineering and all things video game related.
+  My name is Nicholas Spudich and I have a keen interest in software engineering and all things video game related.
 </p>
 
-<h1 align = "center">Contact</h1>
+<h1 align = "center">
+  <font color="white">Contact</font>
+    </h1>
 
 
 <h4 align="center">
-  <font color="green">Phone</font>
+  <font color="green">PHONE</font>
   <br>
-  (406-781-1173)
+  406-781-1173
 </h4>
 <h4 align="center">  
-  <font color="green">E-mail</font> 
+  <font color="green">E-MAIL</font> 
   <br>
   nicholasspudich@gmail.com
 </h4>
 <h4 align="center">  
-  <font color="green">Address</font>
+  <font color="green">ADDRESS</font>
   <br>
-  (California, PA)
+  California, Pennsylvania
 </h4>
 
 
 
-<h1 align = "center">Resources</h1>
-<p align = "center">
-  [Resume](https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx)
-  <br><br>
-  [Linkedin](https://www.linkedin.com/in/nicholas-spudich-029a0821a/)
-</p>
+<h1 align = "center">
+  <font color="white">Resources</font>
+    </h1>
+<h4 align="center">
+  <font color="green">RESUME</font>
+    https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx
+  <br>
+</h4>
 
-<h1 align = "center">Past Projects</h1>
+<h4 align="center">
+  <font color="green">LINKEDIN</font>
+    https://www.linkedin.com/in/nicholas-spudich-029a0821a/
+</h4>
+
+<h1 align = "center">
+  <font color="white">Past Projects</font>
+    </h1>
 
   ## [Vulcan’s Spire](https://streamable.com/uqlbdo) (PC/ANDROID) | 8 month project | 4-member team 
   <br>
