@@ -8,7 +8,6 @@
 <h1 align = "center">
   <font color="white">Contact Information</font>
     </h1>
-<br>
 <h4 align="center">
   <font color="green">PHONE</font>
   <br>
