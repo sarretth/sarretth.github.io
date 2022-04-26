@@ -54,7 +54,14 @@
       - Written in C#
       - ~2-5 hours of gameplay
 
-
+  <details><summary>DOWNLOADS</summary>
+  <p>  
+      [ANDROID]: https://drive.google.com/file/d/1QMRhS3cuC3PqVNS0vNR8Y9I5T5wPoxCX/view?usp=sharing
+      <br>
+      [PC]: https://drive.google.com/drive/folders/14FTOoKKwKaixPgV8LytVoKGgVSlYhRth?usp=sharing
+  </p>
+  </details>
+  ---
   [Azshura](https://forums.rpgmakerweb.com/index.php?threads/azshura-1-0.132229/) (PC) | 4+ Year project | Solo-developed
   <br>
   <p align = "center">
@@ -64,3 +71,11 @@
       - Developed in RPG Maker MV
       - Coded using JavaScript
       - ~20-35 hours of gameplay
+
+<details><summary>DOWNLOADS</summary>
+<p>  
+    [ZIP]: https://www.dropbox.com/s/lw8lce4hj03jcsf/Azshura-1.0.zip?dl=0
+    <br>
+    [7ZIP]: https://drive.google.com/drive/folders/1LZs-57uuaDgbQyouLTrvVVBquyu-a6LQ?usp=sharing
+</p>
+</details>
