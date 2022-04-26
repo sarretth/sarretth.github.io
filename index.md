@@ -2,7 +2,8 @@
 About me
 </p>
 ```
-My name is Nicholas Spudich and I have a keen interest in software engineering and all things video game related.
+My name is Nicholas Spudich and I have a keen interest in software
+engineering and all things video game related.
 ```
 
 <p align="center">
@@ -33,9 +34,12 @@ Past Projects
 
 [Azshura]() (PC) | 4+ Year project | Solo-developed
 ![Azshura1](https://user-images.githubusercontent.com/64248034/165196535-d897d503-79d9-4ffa-8c62-300cbfc932b0.png)
+
+[Game Information](https://forums.rpgmakerweb.com/index.php?threads/azshura-1-0.132229/)
+
 <p align="center">
 Downloads
 </p>
-[.zip](https://www.dropbox.com/s/lw8lce4hj03jcsf/Azshura-1.0.zip?dl=0)
-[.7zip](https://drive.google.com/drive/folders/1LZs-57uuaDgbQyouLTrvVVBquyu-a6LQ?usp=sharing)
+[zip](https://www.dropbox.com/s/lw8lce4hj03jcsf/Azshura-1.0.zip?dl=0)
+[7zip](https://drive.google.com/drive/folders/1LZs-57uuaDgbQyouLTrvVVBquyu-a6LQ?usp=sharing)
 ```
