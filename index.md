@@ -14,7 +14,5 @@ Resume
 ```
 #3DVideogame - Vulcan’s Spire (PC/ANDROID) | 8 month project | 4 member Team Screenshots
 - Developed in Unity Real-Time Development Platform
-##Trailer
-[Link](https://streamable.com/uqlbdo)
-
+[Trailer](https://streamable.com/uqlbdo)
 ```
