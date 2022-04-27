@@ -35,6 +35,7 @@
 </h4>
 
 <h4 align="center">
+    <font color="green">LINKEDIN</font>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nicholas-spudich-029a0821a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nicholas-spudich-029a0821a?trk=profile-badge">Nicholas Spudich</a></div>
               
 </h4>
