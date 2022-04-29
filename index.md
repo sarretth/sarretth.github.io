@@ -30,7 +30,7 @@
 <h4 align="center">
   <font color="green">RESUME</font>
   <br>
-    <a> [LINK](https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx)
+    <a href="https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx">Resume</a>
   <br><br>
 </h4>
 
@@ -62,6 +62,7 @@
   </p>
   </details>
   ---
+  
   [Azshura](https://forums.rpgmakerweb.com/index.php?threads/azshura-1-0.132229/) (PC) | 4+ Year project | Solo-developed
   <br>
   <p align = "center">
