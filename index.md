@@ -30,7 +30,7 @@
 <h4 align="center">
   <font color="green">RESUME</font>
   <br>
-    https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx
+    <a> [LINK](https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx)
   <br><br>
 </h4>
 
@@ -50,9 +50,9 @@
   <img src="https://user-images.githubusercontent.com/64248034/165195624-c0ae09d8-3f07-4c74-bf3f-7a43e26652aa.png" width="400" height="200">
   </p>
       
-      - Developed in Unity Real-Time Development Platform
-      - Written in C#
-      - ~2-5 hours of gameplay
+  - Developed in Unity Real-Time Development Platform
+  - Written in C#
+  - ~2-5 hours of gameplay
 
   <details><summary>DOWNLOADS</summary>
   <p>  
@@ -68,9 +68,9 @@
     <img src="https://user-images.githubusercontent.com/64248034/165196535-d897d503-79d9-4ffa-8c62-300cbfc932b0.png" width="400" height="200">
   </p>
   
-      - Developed in RPG Maker MV
-      - Coded using JavaScript
-      - ~20-35 hours of gameplay
+  - Developed in RPG Maker MV
+  - Coded using JavaScript
+  - ~20-35 hours of gameplay
 
 <details><summary>DOWNLOADS</summary>
 <p>  
