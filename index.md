@@ -30,7 +30,7 @@
 <h4 align="center">
   <font color="green">RESUME</font>
   <br>
-    <a href="https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx">Resume</a>
+    <a href="https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx">Link</a>
   <br><br>
 </h4>
 
