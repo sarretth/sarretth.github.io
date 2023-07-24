@@ -11,7 +11,7 @@
 <h4 align="center">
   <font color="green">PHONE</font>
   <br>
-  3044099646
+  304-409-9646
 </h4>
 <h4 align="center">  
   <font color="green">E-MAIL</font> 
@@ -30,7 +30,7 @@
 <h4 align="center">
   <font color="green">RESUME</font>
   <br>
-    <a href="https://github.com/sarretth/sarretth.github.io/files/8558760/Resume2.docx">Link</a>
+    <a href="">Link</a>
   <br><br>
 </h4>
 
