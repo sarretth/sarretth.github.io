@@ -21,7 +21,7 @@
 <h4 align="center">  
   <font color="green">ADDRESS</font>
   <br>
-  California, Pennsylvania
+  Weirton, West Virginia
 </h4>
 ---
 <h1 align = "center">
